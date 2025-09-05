@@ -10,7 +10,8 @@ Live Demo: [simon-game-two-swart.vercel.app](https://simon-game-two-swart.vercel
 <img width="1919" height="969" alt="image" src="https://github.com/user-attachments/assets/6675aec6-cda8-4dfa-bca8-db3c36b4ddb6" />
 <img width="1918" height="970" alt="image" src="https://github.com/user-attachments/assets/9160052b-8cca-433d-86c1-cd975bba94d8" />
 <img width="1919" height="974" alt="image" src="https://github.com/user-attachments/assets/ef5ef7f0-62a2-41e6-87c0-12fdbd20a488" />
-![WhatsApp Image 2025-09-05 at 23 58 25_b636d4a2](https://github.com/user-attachments/assets/2ced4532-97eb-4f7c-984b-b88ad5160700)
+<img width="463" height="893" alt="image" src="https://github.com/user-attachments/assets/19c67325-8374-452a-8de8-5e9e4d467d2c" />
+
 
 
 ## Features
