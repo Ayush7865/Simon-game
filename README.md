@@ -7,6 +7,11 @@ Live Demo: [simon-game-two-swart.vercel.app](https://simon-game-two-swart.vercel
 
 ---
 
+<img width="1919" height="969" alt="image" src="https://github.com/user-attachments/assets/6675aec6-cda8-4dfa-bca8-db3c36b4ddb6" />
+<img width="1919" height="969" alt="image" src="https://github.com/user-attachments/assets/4c856a2b-043e-4a92-8466-68898fab082b" />
+<img width="1919" height="974" alt="image" src="https://github.com/user-attachments/assets/ef5ef7f0-62a2-41e6-87c0-12fdbd20a488" />
+
+
 ## Features
 
 - Classic Simon gameplay with progressive difficulty
@@ -29,9 +34,12 @@ Live Demo: [simon-game-two-swart.vercel.app](https://simon-game-two-swart.vercel
 ---
 
 ## Project Structure
-├── index.html # Main entry point
-├── style.css # Styling and theme support
-├── script.js # Game logic
+
+```bash
+├── index.html   # Main entry point
+├── style.css    # Styling and theme support
+├── script.js    # Game logic
+
 
 ---
 
