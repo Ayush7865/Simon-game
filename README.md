@@ -59,7 +59,7 @@ Live Demo: [simon-game-two-swart.vercel.app](https://simon-game-two-swart.vercel
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/simon-game.git
+git clone https://github.com/Ayush7865/simon-game.git
 
 # Navigate into the project folder
 cd simon-game
